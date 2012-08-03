@@ -8,13 +8,13 @@
 <h1>Params</h1>
 
 * <strong>@param text</strong> - String(); This is the text to display.
-* @param style - String(); This is the text's style. It can be pre set accordingly how many styles it has.
-* @param align -  String(); The alignment of the text. They can be 'left', 'right', 'center' and 'justify'.
-* @param antiAlias - String(); Defines the antiAlias. They can be 'advanced' and 'normal'.
-* @param size - Number(); The size of the text. Twelve is the default.
-* @param letterSpacing - Number(); The space between letters.
-* @param width - Number(); The width of the text box.
-* @param color - uint(); The hexa code for the color.
-* @param backgroundColor - uint(); The hexa code for the backgroundColor.
-* @param selectable - Boolean(); Defines whether the text will be selectable or not.
-* @return TextField().
+* <strong>@param style</strong> - String(); This is the text's style. It can be pre set accordingly how many styles it has.
+* <strong>@param align</strong> -  String(); The alignment of the text. They can be 'left', 'right', 'center' and 'justify'.
+* <strong>@param antiAlias</strong> - String(); Defines the antiAlias. They can be 'advanced' and 'normal'.
+* <strong>@param size</strong> - Number(); The size of the text. Twelve is the default.
+* <strong>@param letterSpacing</strong> - Number(); The space between letters.
+* <strong>@param width</strong> - Number(); The width of the text box.
+* <strong>@param color</strong> - uint(); The hexa code for the color.
+* <strong>@param backgroundColor</strong> - uint(); The hexa code for the backgroundColor.
+* <strong>@param selectable</strong> - Boolean(); Defines whether the text will be selectable or not.
+* <strong>@return</strong> TextField().
