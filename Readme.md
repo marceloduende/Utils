@@ -1,5 +1,5 @@
 <h1>TextFactory</h1>
-<h2>It's a TextField until that allows to add text in one line of code with a bunch of parameters</h2>
+<h2>It's a TextField util that allows to add text in one line of code with a bunch of parameters</h2>
 
 	var t:TextFactory = new TextFactory();
 	var tf:TextField = new TextField();
