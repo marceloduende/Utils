@@ -1,9 +1,9 @@
 <h1>Usage</h1>
 
-<p>var t:TextFactory = new TextFactory();</p>
-<p>var tf:TextField = new TextField();</p>
-<p>tf = t.addText({text:'This is my text', antiAlias:'advanced', width:500, align:"right", style:"bold", size:50, color:0xFF0000});</p>
-<p>addChild(tf);</p>
+	var t:TextFactory = new TextFactory();
+	var tf:TextField = new TextField();
+	tf = t.addText({text:'This is my text', antiAlias:'advanced', width:500, align:"right", style:"bold", size:50, color:0xFF0000});
+	addChild(tf);
 
 <h1>Params</h1>
 
