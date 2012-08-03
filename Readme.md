@@ -1,4 +1,5 @@
-<h1>Usage</h1>
+<h1>TextFactory</h1>
+<h2>It's a TextField until that allows to add text in one line of code with a bunch of parameters</h2>
 
 	var t:TextFactory = new TextFactory();
 	var tf:TextField = new TextField();
@@ -18,3 +19,15 @@
 * <strong>@param backgroundColor</strong> - uint(); The hexa code for the backgroundColor.
 * <strong>@param selectable</strong> - Boolean(); Defines whether the text will be selectable or not.
 * <strong>@return</strong> TextField().
+
+<h1>Costumization</h1>
+
+1 - To add or remove fonts, you should open the fonts.fla on the lib folder, add your favorite font and export to actionscript at the linkage. Done that, export a .swc overwriting the fonts.swc.
+2 - With the step 1 done, simply open the Fonts.as file and add or remove the fonts you want.
+3 - The last but not least, at TextFacotry.as change the switch at the line 86 where the font names are defined. 
+
+With all that done, you're good to mess around. Have a nice coding.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
