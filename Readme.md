@@ -7,7 +7,7 @@
 
 <h1>Params</h1>
 
-* @param text - String(); This is the text to display.
+* <strong>@param text</strong> - String(); This is the text to display.
 * @param style - String(); This is the text's style. It can be pre set accordingly how many styles it has.
 * @param align -  String(); The alignment of the text. They can be 'left', 'right', 'center' and 'justify'.
 * @param antiAlias - String(); Defines the antiAlias. They can be 'advanced' and 'normal'.
